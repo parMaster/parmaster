@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![parMaster profile views](https://u8views.com/api/v1/github/profiles/1956191/views/day-week-month-total-count.svg)](https://u8views.com/github/parMaster)
+
 <!--
 **parMaster/parmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
